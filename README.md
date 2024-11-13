@@ -1,4 +1,4 @@
-# COMP3180 Final Project
+# COMP3180 Final Project - Action RPG in VR Template
 
 ## Week 1 - Selecting a Project
 
