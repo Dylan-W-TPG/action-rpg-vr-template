@@ -1,42 +1,5 @@
 # COMP3180 Final Project
 
-Included is a rough timeline below. Fill this in from week to week to show your progress throughout semester.
-
-<details>
-  <summary>Markdown formatting tips (Click to expand)</summary>
-  Below are a number of tips for adding images and other formatting to your journal. We recommend you give them all a go. You can remove this section from your journal when you are done with it.
-
-  ## Inserting images
-  You can (and should!) insert images into your journal. To do so, place the images inside a folder within your repo and insert them using the following template, replacing text in "<>" appropriately:
-  ```
-  ![<Image description>](<path to image>/<image name and file extension>)
-  ```
-  For example:
-  ```
-  ![This is my awesome image!](images/coolimage.png)
-  ```
-  ## Inserting Quotes
-  Quotes can be a useful way to add sections from your readings into your journal for reference later. To add them, place a ">" marker in front of each line (or using `<br>` to seperate them). Example:
-
-  > This is the first line of my awesome quote!<br>And here is another line! How cool!
-
-  No marker here, so the quote is broken. But I can bring it back...
-  > Like this!
-
-  ## Inserting Code
-  Code snippets can be a good way to place algorithms, formulas or other such things into your documentation for illustrative purposes (or if your project requires installation instructions). You can insert code by placing three backticks (```) above and below the code breakout. Like this:
-
-  ```
-  if (noCoffee)
-  {
-    coffeePot.refill();
-  }
-  ```
-  If you want to add a very short snippet of code into a paragraph, you can instead use single Backtick, `Like this!`.
-
-  Please let us know if you need help doing anything else in Markdown!
-</details>
-
 ## Week 1 - Selecting a Project
 
 Complete the "Choose a Topic" survey in iLearn and paste the details here.
