@@ -1,4 +1,5 @@
 # COMP3180 Final Project - Action RPG in VR Template
+Dylan Wijesinghe
 
 ## Week 1 - Selecting a Project
 
